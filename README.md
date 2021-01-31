@@ -1,5 +1,8 @@
 ##项目一 ：第一次课堂作业
 
+##TOKEN:
+-  5c78b79857af526a21fd85e56386a68cc0dcb5b8
+
 ##课堂笔记
 - 课程贴地址：https://ceshiren.com/t/topic/9879
 - git  http://ceshiren.com/t/topic/7405
@@ -17,5 +20,9 @@
 - push 本地上传到远程
   
 
+- gitee
+
 ##作业地址：
-- git
+
+
+
