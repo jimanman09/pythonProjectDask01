@@ -9,6 +9,13 @@
 ##代码---本地git仓库---远程git仓库
 - 安装git bash
 - 创建自己git账号 
+- git init
+- commit  上传到本地git仓库
+- github网站https://github.com/new创建代码仓库
+  https://github.com/jimanman09/pythonProjectDask01，https://github.com/jimanman09/pythonProjectDask01.git
+- 关联本地和远程仓库
+- push 本地上传到远程
+  
 
 ##作业地址：
 - git
